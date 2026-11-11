@@ -86,7 +86,7 @@ The agent found the bridge, sent a script through port 9877 to ask Unreal where 
 
 ## Video link
 New recording (terminal + ask + result in Unreal, under 1 minute):
-https://drive.google.com/drive/folders/1SO0oK6Ihu2Fnfhx8auoODNkKPP2mQ2QF
+https://drive.google.com/file/d/1_sdgnbqJwX_CMC9AdoIdrP4eoaAnIcq-/view?usp=sharing
 
 First recording (the game I built):
 https://drive.google.com/file/d/1A5mWwcVRb1fgpztkzPxSYiXj_PbxwHbT/view?usp=sharing
