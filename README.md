@@ -78,5 +78,15 @@ After that, I said "now, can you create a small playable top-down 3D action-adve
 <img width="2559" height="1521" alt="image" src="https://github.com/user-attachments/assets/5c4049f6-1985-4998-a253-375c158804cd" />
 <img width="2553" height="1524" alt="image" src="https://github.com/user-attachments/assets/ad4d480a-f5de-4309-841c-3c7e0c020384" />
 
+Then, for the recording, I asked the agent for one small thing in the level the game had built. My exact words were:
+
+> can you add a big glowing treature chest a few step in front of the player
+
+The agent found the bridge, sent a script through port 9877 to ask Unreal where the player was, and placed the chest about 3 m in front of the player. The chest is built from the level's own materials, with an open lid, glowing treasure inside, and a warm point light. Then it took a screenshot through the bridge to check the result. The recording shows the terminal and Unreal side by side, from my ask to the chest appearing in the level.
+
 ## Video link
+New recording (terminal + ask + result in Unreal, under 1 minute):
+https://drive.google.com/drive/folders/1SO0oK6Ihu2Fnfhx8auoODNkKPP2mQ2QF
+
+First recording (the game I built):
 https://drive.google.com/file/d/1A5mWwcVRb1fgpztkzPxSYiXj_PbxwHbT/view?usp=sharing
